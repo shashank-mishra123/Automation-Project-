@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+# Local WhatsApp browser session and generated runtime files
+whatsapp_profile/
+logs/*
+reports/*
+stderr.txt
+stdout.txt
+
+# Personal contact data
+data/*.csv
+data/*.xlsx
+data/*.xls

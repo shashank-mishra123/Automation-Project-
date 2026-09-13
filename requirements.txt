@@ -1,0 +1,6 @@
+pandas
+pywhatkit
+pyautogui
+selenium
+webdriver-manager
+openpyxl
